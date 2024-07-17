@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as i,a4 as t}from"./chunks/framework.4yGPgQlC.js";const m=JSON.parse('{"title":"Hello VitePress","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"},r=t("",3),s=[r];function n(o,p,d,h,_,c){return i(),a("div",null,s)}const x=e(l,[["render",n]]);export{m as __pageData,x as default};
