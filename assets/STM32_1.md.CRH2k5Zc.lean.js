@@ -1,1 +1,0 @@
-import{_ as e,c as a,o as l,a4 as t}from"./chunks/framework.4yGPgQlC.js";const S=JSON.parse('{"title":"Hello STM32","description":"","frontmatter":{},"headers":[],"relativePath":"STM32/1.md","filePath":"STM32/1.md"}'),i={name:"STM32/1.md"},r=t("",2),o=[r];function n(_,p,s,h,d,c){return l(),a("div",null,o)}const f=e(i,[["render",n]]);export{S as __pageData,f as default};
