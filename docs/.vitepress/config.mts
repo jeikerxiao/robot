@@ -3,7 +3,7 @@ import { provide } from "vue";
 export default {
     title: '知晓',
     description: '晓疯嵌入式开发小站', // 博客的介绍
-    base: '/blog/',
+    base: '/robot/',
     themeConfig: {
     // 增加搜索框-在导航栏
     search: {
